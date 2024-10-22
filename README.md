@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gokul Karthik</h1>
-<h3 align="center">I'm a passionate coder, front end developer and electronics enthusiast.</h3>
+<h3 align="center">I'm an electronics enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkarthiksai&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthiksai" /> </p>
 
 - 🔭 I’m currently working on **PCB design and embedded systems.**
 
-- 🌱 I’m currently learning **PCB design, React Js, JAVA and DSA and embedded system.**
+- 🌱 I’m currently learning **PCB design and embedded systems.**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **gg0571@srmist.edu.in**
+- 📫 How to reach me **goulkarthiksai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
