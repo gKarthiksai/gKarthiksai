@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **PCB design and embedded systems.**
 
-- 🌱 I’m currently learning **PCB design and embedded systems.**
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **goulkarthiksai@gmail.com**
